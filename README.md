@@ -8,8 +8,7 @@ a Lattice iCE40 HX8K FPGA.
 This project was created by forking the RISC-V FPGA project and
 adapting the rest of the Verilog for PowerPC.
 
-https://www.mikekohn.net/micro/riscv_fpga.php
-https://www.mikekohn.net/micro/intel_8008_fpga.php
+https://www.mikekohn.net/micro/powerpc_fpga.php
 
 This is a stripped down "microcontroller" style version of the
 instruction set... aka UnderpoweredPC.
